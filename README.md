@@ -8,4 +8,5 @@ ULMFiT achieved state-of-art results on various downstream NLP tasks by using Tr
 
 For in-depth explanation of ULMFiT feel free to check my blog post on medium **"ULMFiT for Text Classification research paper clearly explained"**
 
-Link to post : 
+Link to post : https://medium.com/nerd-for-tech/ulmfit-for-text-classification-research-paper-clearly-explained-2d21810174a0
+
